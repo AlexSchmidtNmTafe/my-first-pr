@@ -11,6 +11,8 @@ A pull request is a way to suggest changes to a repository. When you create a pu
 <!-- TODO: Add information on PRs and forks. -->
 PRs can require a set number of  reviewers. They also form part of CI/CD pipelines
 
+Forks are used to create a copy of a repository and used to affect meaningful changes to the codebase, for personal or enterprise use. Very common in open source.
+
 ## Set up your environment
 
 ### Create a local copy of the repository
